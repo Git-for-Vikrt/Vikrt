@@ -1,4 +1,4 @@
 # Vikrt
 It's my first repository
 <br>
-Author - Vikrt Patel
+Author - Vikrt Patel (pikachu)
